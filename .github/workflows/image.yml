@@ -180,7 +180,7 @@ jobs:
 
       - name: Log in to pull the previous private image
         if: needs.private-package.outputs.publish_enabled == 'true' && needs.private-package.outputs.previous_image != ''
-        uses: docker/login-action@dbcb813823bdd20940b903addbd779551569679f # v4.6.0
+        uses: docker/login-action@81c6f93d4bc991e510b342a00b419b3bb4efc5c6 # v4.7.0
         with:
           registry: ghcr.io
           username: williamboglietti
@@ -302,7 +302,7 @@ jobs:
 
       - name: Log in to publish the tested private candidate
         if: needs.private-package.outputs.publish_enabled == 'true'
-        uses: docker/login-action@dbcb813823bdd20940b903addbd779551569679f # v4.6.0
+        uses: docker/login-action@81c6f93d4bc991e510b342a00b419b3bb4efc5c6 # v4.7.0
         with:
           registry: ghcr.io
           username: williamboglietti
@@ -417,7 +417,7 @@ jobs:
         uses: docker/setup-buildx-action@f87e5991a6d7451dcb8d9637bfbc97413f497069 # v4.4.1
 
       - name: Log in to GHCR for private promotion
-        uses: docker/login-action@dbcb813823bdd20940b903addbd779551569679f # v4.6.0
+        uses: docker/login-action@81c6f93d4bc991e510b342a00b419b3bb4efc5c6 # v4.7.0
         with:
           registry: ghcr.io
           username: williamboglietti
