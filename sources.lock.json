@@ -4,17 +4,17 @@
     "commit": "6f9cf0906256e8c4705fa5cf6812dc022b680509",
     "repository": "cachethq/cachet"
   },
-  "composer_lock_sha256": "b2391407262648683b131481886dd48f434bb1c06b0ca5477e981fdaa6ac357e",
+  "composer_lock_sha256": "4f87bd7f777a683cad6ae4ace457a45d36337790b9c6574141de98c415d634b8",
   "core": {
     "branch": "main",
     "commit": "8ae3e2c0aed1027ce675f652a91d5745cb15ef14",
     "repository": "cachethq/core"
   },
-  "dependency_checked_on": "2026-11-02",
-  "fingerprint": "2f208cf279956fdd8e6c1e404a949a529aad9694449065baf53563c9f6901b84",
+  "dependency_checked_on": "2026-11-03",
+  "fingerprint": "65d205e21b6c1e7acf60a9cc858a57266ab30d0ea0acf78698a1d1a65da50714",
   "images": {
     "composer": {
-      "digest": "sha256:4ed71c38c6d788eb4e4e3747b5332f5b40d5b5a6fcadd5062a1a70986a118e0a",
+      "digest": "sha256:5190d9b445add2fa26090108273cb1ef1e1af98175201c737b85b3c4f90fbf7c",
       "tag": "composer:2"
     },
     "frankenphp": {
