@@ -4,14 +4,14 @@
     "commit": "6f9cf0906256e8c4705fa5cf6812dc022b680509",
     "repository": "cachethq/cachet"
   },
-  "composer_lock_sha256": "3f292ab9d1a10f017bb317122d6b265225e2e37968a2cd211f920db66f0862c8",
+  "composer_lock_sha256": "43f6842f7cec9068e7568b089052023c435873e61ab6cf11aea974ea2d2e30c6",
   "core": {
     "branch": "main",
     "commit": "8ae3e2c0aed1027ce675f652a91d5745cb15ef14",
     "repository": "cachethq/core"
   },
-  "dependency_checked_on": "2026-11-12",
-  "fingerprint": "9cc1d38ddd5518d249df737e04b3f2c3a75e41715f5db3f66cc8a8bbf49a7fa8",
+  "dependency_checked_on": "2026-11-13",
+  "fingerprint": "2d7698698e467d9458372c5f7ff8a1f715b056d7741e0b9013d7996d6a6fda7c",
   "images": {
     "composer": {
       "digest": "sha256:ca11f643d7791ebdd90a34fc20caf11380d434007ae539a9ea75cd9212e13dca",
