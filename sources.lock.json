@@ -4,14 +4,14 @@
     "commit": "873e8223f611e9aaaae8a1122959f6d062b51e35",
     "repository": "cachethq/cachet"
   },
-  "composer_lock_sha256": "0b9ca07875d9cb6c861b05c4633655f334610000277cf64681c9e5a9de08b9ca",
+  "composer_lock_sha256": "52787eaa59ea68b5f1e295d664ff485d1f3eb4e859d238fc2d618165b0cc2137",
   "core": {
     "branch": "main",
     "commit": "8ae3e2c0aed1027ce675f652a91d5745cb15ef14",
     "repository": "cachethq/core"
   },
-  "dependency_checked_on": "2026-11-22",
-  "fingerprint": "6b506aa2d1195e3e96dc3d42a494803c9650f5bbd6c48b2b59fcf5f6965798c9",
+  "dependency_checked_on": "2026-11-23",
+  "fingerprint": "182f1709faad339f14fc6a9a36be3d998221651e97e6d4ada09bcbf7d36b2af9",
   "images": {
     "composer": {
       "digest": "sha256:50ea4d33fdcde1adb0f045547295faa1548b33872e5f789dae5b02ce2fb5de93",
@@ -22,7 +22,7 @@
       "tag": "dunglas/frankenphp:1-php8.4-bookworm"
     }
   },
-  "os_rebuild_week": "2026-W47",
+  "os_rebuild_week": "2026-W48",
   "recipe_sha256": "d74647da22fd99a7c680042e0535110d177d8bb690cd062b09329af0e671899d",
   "schema_version": 1
 }
