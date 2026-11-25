@@ -4,21 +4,21 @@
     "commit": "873e8223f611e9aaaae8a1122959f6d062b51e35",
     "repository": "cachethq/cachet"
   },
-  "composer_lock_sha256": "a8ef46de940785afbf0a0460e60cd80c8a2e6d7b54bb05e3c8b94fe455730c0b",
+  "composer_lock_sha256": "3246334a399ff9f0e85990b4b95e9dea7e8627dcacc9117de401fb576926242f",
   "core": {
     "branch": "main",
     "commit": "8ae3e2c0aed1027ce675f652a91d5745cb15ef14",
     "repository": "cachethq/core"
   },
   "dependency_checked_on": "2026-11-25",
-  "fingerprint": "ca24725f85312c3cb1b6d8cb625bdb69f69cd0770a52f0b07c5f8e17576ba0e5",
+  "fingerprint": "d439a28a477c38f675834fdeb86561040695cf616b780e0101a63495581c58f8",
   "images": {
     "composer": {
       "digest": "sha256:0049ce90b432795bf413a738b073963ada1a689e1a8708104684baafe94586ec",
       "tag": "composer:2"
     },
     "frankenphp": {
-      "digest": "sha256:2721ad9a89b1e34da343f584c063b397012c8c48f0d5727cad657fe2cdf8763f",
+      "digest": "sha256:7dfebdddf5f92d0edfceb6905c9fc88e82906639eb5e14644b8851a416da90a9",
       "tag": "dunglas/frankenphp:1-php8.4-bookworm"
     }
   },
